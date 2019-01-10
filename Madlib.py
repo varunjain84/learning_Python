@@ -1,0 +1,6 @@
+colour=input("Enter the colour:")
+plural_noun=input("Enter the Plural Noun:")
+country_name=input("Enter the Country Name:")
+print("Roses are "+ colour)
+print(plural_noun + " is Blue")
+print("Dont mess with "+country_name)

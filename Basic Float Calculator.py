@@ -1,4 +1,4 @@
-a = input("Please enter the first number:")
-b = input("Please enter the second number:")
-c = float(a) + float(b)
-print (c)
+num1=input("Please enter first number : ")
+num2=input("Please enter second number")
+cal= num1+num2
+print("The answer is " + cal)
